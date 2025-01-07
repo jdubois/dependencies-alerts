@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.3.4</version>
+		<version>3.4.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
@@ -31,37 +31,37 @@
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-ai-openai</artifactId>
-			<version>1.0.0-beta.10</version>
+			<version>1.0.0-beta.13</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-ai-inference</artifactId>
-			<version>1.0.0-beta.1</version>
+			<version>1.0.0-beta.2</version>
 		</dependency>
 
 		<dependency>
             <groupId>com.azure</groupId>
             <artifactId>azure-search-documents</artifactId>
-			<version>11.7.1</version>
+			<version>11.7.4</version>
         </dependency>
 
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-storage-blob</artifactId>
-			<version>12.28.0</version>
+			<version>12.29.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-storage-common</artifactId>
-			<version>12.27.0</version>
+			<version>12.28.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.azure</groupId>
 			<artifactId>azure-identity</artifactId>
-			<version>1.13.3</version>
+			<version>1.14.2</version>
 		</dependency>
 
 		<dependency>
