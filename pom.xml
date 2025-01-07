@@ -63,6 +63,12 @@
 			<artifactId>azure-identity</artifactId>
 			<version>1.13.3</version>
 		</dependency>
+
+		<dependency>
+			<groupId>com.openai</groupId>
+			<artifactId>openai-java</artifactId>
+			<version>0.9.1</version>
+		</dependency>
 	</dependencies>
 
 	<build>
